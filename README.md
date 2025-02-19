@@ -1,6 +1,4 @@
 # ProyectoScraper
-<<<<<<< HEAD
-
 Usado: Python, BeautifulSoup (librería)
 
 ## Proposito
@@ -16,4 +14,4 @@ los scripts son de mi autoría
 
 =======
 Software de web scraping escrito en python usando la librería BeautifulSoup para una investigación sobre la presencia de habilidades blandas en ofertas de trabajo
->>>>>>> 34df0c96ca7df1094e87df87053bf55bb50754d4
+
