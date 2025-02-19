@@ -1,0 +1,46 @@
+https://www.jobatus.mx/trabajo?q=programador&l=Puebla%2C+Puebla&jb=all
+
+
+
+!!complicado
+https://www.occ.com.mx/empleos/de-programador/en-puebla/
+
+
+!!buscar
+https://bolsadetrabajobuap.blogspot.com/
+
+
+50 cu, 4 en total
+
+
+#que obtenga las habilidades
+#/////puesto que ofrecen
+#////numero de habilidades
+#//////enlace
+#vacante
+#que habilidaes tienen
+###si se puede, el sueldo
+#4 sitios en total
+#50 cada uno
+
+
+
+>try!
+
+portal del empleo: negativo, verificacion manual
+opcion empleo: negativo, niega robots
+mercadojobs: negativo, solo 1 solicitud de programador
+jobatus: hecho y funcionando
+occ: hecho y funcionando
+Mejores páginas para buscar empleo México 2022
+LinkedIn: requiere autenticacion
+CompuTrabajo: arroja forbidden
+Bumeran: niega robots
+Universia Empleo: su version de mexico solo tiene una vacante del area
+BuscoJobs: niega robots
+AcciónTrabajo: niega robots
+Opcionempleo: niega robots
+Jobtify: realiza practicas para evitar scraping
+Fiverr: niega robots
+bumeran: requiere interaccion, sus links redirigen
+bolsa de trabajo buap: muy pocos trabajos
